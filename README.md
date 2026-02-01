@@ -1,5 +1,4 @@
-# FUTURE_DS_01
-Data Science & Analytics – Task 1 (2026)
+# Data Science & Analytics – Task 1 (2026)
 By Future Interns
 Business Sales Performance Analytics
 
